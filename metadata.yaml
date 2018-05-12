@@ -1,0 +1,36 @@
+_repo: Die-KakomonadeEin-Nachla--vom-Doktor-Panglos-als-ein-Supplement-des-Kandide_39043
+_version: 0.1.0
+alternative_title: "Die Kakomonade\r\nEin Nachlass vom Doktor Panglos, als ein Supplement\
+  \ des Kandide"
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Linguet, Simon Nicolas Henri
+    alias: Pangloss, docteur
+    birthdate: 1736
+    deathdate: 1794
+    gutenberg_agent_id: '39808'
+    url: http://www.gutenberg.org/2009/agents/39808
+    wikipedia: http://en.wikipedia.org/wiki/Simon-Nicholas_Henri_Linguet
+description: ''
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2012-03-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39043'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcc 'RC'
+- !lcsh 'Syphilis'
+- !lcsh 'Voltaire, 1694-1778. Candide'
+- !lcsh 'Sexually transmitted diseases'
+title: 'Die Kakomonade
+
+  Ein Nachlaß vom Doktor Panglos, als ein Supplement des Kandide'
+url: http://www.gutenberg.org/ebooks/39043
